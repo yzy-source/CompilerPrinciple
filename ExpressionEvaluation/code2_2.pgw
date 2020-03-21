@@ -1,0 +1,29 @@
+[Application]
+WindowPlacement=2 3 -32000 -32000 -1 -1 302 97 1127 780
+[Editor1]
+FileName=.\code2_3.y
+ReadOnly=0
+WindowPlacement1=2 3 -1 -1 -8 -31 130 130 1288 558
+WindowOrder1=1
+Position001=0 21
+Cursor001=3 29 3 29
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Editor2]
+FileName=.\code2_2.y
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -8 -31 26 26 1184 454
+WindowOrder1=2
+Position001=0 36
+Cursor001=24 44 24 44
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Editor3]
+FileName=.\code2.y
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -8 -31 182 182 1340 610
+WindowOrder1=3
+Position001=0 27
+Cursor001=57 79 57 79
+SyntaxColouring=2
+TargetSyntaxColouring=3

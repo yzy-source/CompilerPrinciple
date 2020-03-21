@@ -1,0 +1,29 @@
+[Application]
+WindowPlacement=2 3 -1 -1 -1 -1 10 6 820 710
+[Editor1]
+FileName=..\..\未学 完\编译\作业45\编译原理第四步\编译原理第四步\myparser.y
+ReadOnly=0
+WindowPlacement1=2 2 0 604 -8 -31 78 94 1236 522
+WindowOrder1=1
+Position001=0 202
+Cursor001=23 24 23 24
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Editor2]
+FileName=..\..\大三上\编译原理\刘丹\step4 - 副本 (2)\myparser.y
+ReadOnly=0
+WindowPlacement1=2 2 160 604 -8 -31 -65 22 777 446
+WindowOrder1=2
+Position001=0 85
+Cursor001=0 60 0 60
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Editor3]
+FileName=..\..\大三上\编译原理\刘丹\step4 - 副本 (2)\mylexer.l
+ReadOnly=0
+WindowPlacement1=0 2 320 604 -8 -31 326 104 1146 532
+WindowOrder1=3
+Position001=0 123
+Cursor001=13 123 13 123
+SyntaxColouring=1
+TargetSyntaxColouring=3
